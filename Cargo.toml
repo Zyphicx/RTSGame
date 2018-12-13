@@ -1,0 +1,7 @@
+[package]
+name = "Game"
+version = "0.1.0"
+authors = ["Zyphicx <zyphicxs@gmail.com>"]
+
+[dependencies]
+amethyst = "0.10.0"
